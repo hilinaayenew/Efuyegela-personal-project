@@ -50,7 +50,7 @@ const Navbar = () => {
             </ul>
            
         </div>
-        <div className='px-0 hidden md:block '>
+        <div className='px-0 hidden md:block pr-12 '>
              <button className='text-white text-sm border border-primary px-4 py-2 rounded-full hover:shadow-inset bg-primary  hover:bg-plight hover:border-transparent transition-all duration-200 ' >
                 SignUp
              </button>

@@ -14,6 +14,7 @@ export default {
        secondary: "#E3FFCC",
        tertiary: "#282930",
        fourth: "#777C90",
+       fifth: 'rgb(26, 26, 26)',
       },
 
       fontFamily:{
