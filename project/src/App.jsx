@@ -1,8 +1,8 @@
 import React from 'react';
 import './index.css'; // Ensure this is correct
-import Navbar from '../components/navbar/navbar';
-import Ofwhite from '../components/ofwhite/ofwhite';
-import Services from '../components/services/services';
+import Navbar from '../components/navbar/Navbar';
+import Ofwhite from '../components/ofwhite/Ofwhite';
+import Services from '../components/services/Services';
 import Benefit from '../components/benefit/Benefit';
 import Plan from '../components/plan/Plan';
 import Work from '../components/work/Work';
